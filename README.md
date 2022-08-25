@@ -46,18 +46,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" alt="Ubuntu" title="Ubuntu" />
 </div>
 
-<!--
-**DiegoBRodrigues/DiegoBRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
-https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg
+<h2>Links</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href="https://www.linkedin.com/in/diegobrodrigues/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" height="36" alt="LinkedIn" /></a>
+    <a href="https://codepen.io/DiegoBR/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen" height="36" alt="CodePen" /></a>
+</div>
+
+<hr />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBRodrigues&layout=compact" />
