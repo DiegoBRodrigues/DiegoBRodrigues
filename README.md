@@ -14,4 +14,6 @@
 
 <p>Gostaria de conhecer mais? Mande uma mensagem.</p>
 
-<a href="./docs/README.md">Conteúdo</a>
+<h2>Portfolio</h2>
+
+<p>Acesse <a href="./docs/portfolio/README.md">aqui</a> o portfolio.</p>
