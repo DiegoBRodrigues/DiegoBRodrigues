@@ -13,3 +13,5 @@
 <p>Diego é observador, amigável, empático e determinado a trazer resultados positivos naquilo que está cuidando.</p>
 
 <p>Gostaria de conhecer mais? Mande uma mensagem.</p>
+
+<a href="./docs/README.md">Conteúdo</a>
